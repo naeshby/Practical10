@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Pancakes",
+    "category": "Breakfast",
+    "ingredients": ["Flour", "Milk", "Eggs", "Sugar", "Butter"],
+    "instructions": "Mix all ingredients. Cook on a hot skillet until golden brown on both sides. Serve with syrup or fruits.",
+    "image": "https://placehold.co/300x200"
+  },
+  {
+    "name": "Omelette",
+    "category": "Breakfast",
+    "ingredients": ["Eggs", "Cheese", "Spinach", "Salt", "Pepper"],
+    "instructions": "Beat eggs and pour into skillet. Add cheese and spinach. Cook until done.",
+    "image": "https://placehold.co/300x200"
+  },
+  {
+    "name": "French Toast",
+    "category": "Breakfast",
+    "ingredients": ["Bread", "Eggs", "Milk", "Cinnamon", "Sugar"],
+    "instructions": "Dip bread in egg mixture. Cook on skillet until golden. Serve with syrup.",
+    "image": "https://placehold.co/300x200"
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "category": "Lunch",
+    "ingredients": ["Spaghetti", "Beef", "Tomato Sauce", "Onions", "Garlic"],
+    "instructions": "Cook spaghetti. Prepare sauce with beef and vegetables. Combine and serve hot.",
+    "image": "https://placehold.co/300x200"
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "category": "Lunch",
+    "ingredients": ["Bread", "Cheese", "Butter"],
+    "instructions": "Butter the bread, add cheese, grill until golden brown.",
+    "image": "https://placehold.co/300x200"
+  },
+  {
+    "name": "Caesar Salad",
+    "category": "Lunch",
+    "ingredients": ["Lettuce", "Croutons", "Parmesan", "Caesar Dressing"],
+    "instructions": "Toss all ingredients together and serve chilled.",
+    "image": "https://placehold.co/300x200"
+  },
+  {
+    "name": "Grilled Chicken",
+    "category": "Dinner",
+    "ingredients": ["Chicken Breast", "Olive Oil", "Salt", "Pepper", "Herbs"],
+    "instructions": "Season chicken and grill until cooked. Serve with vegetables or rice.",
+    "image": "https://placehold.co/300x200"
+  },
+  {
+    "name": "Steak with Veggies",
+    "category": "Dinner",
+    "ingredients": ["Steak", "Salt", "Pepper", "Olive Oil", "Vegetables"],
+    "instructions": "Season steak and cook to desired doneness. Serve with sautéed vegetables.",
+    "image": "https://placehold.co/300x200"
+  },
+  {
+    "name": "Vegetable Stir Fry",
+    "category": "Dinner",
+    "ingredients": ["Mixed Vegetables", "Soy Sauce", "Garlic", "Ginger", "Oil"],
+    "instructions": "Stir fry vegetables with garlic, ginger, and soy sauce until tender.",
+    "image": "https://placehold.co/300x200"
+  }
+]
