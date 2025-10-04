@@ -49,17 +49,40 @@
     "image": "https://placehold.co/300x200"
   },
   {
-    "name": "Steak with Veggies",
+    "name": "Beef Stir Fry",
     "category": "Dinner",
-    "ingredients": ["Steak", "Salt", "Pepper", "Olive Oil", "Vegetables"],
-    "instructions": "Season steak and cook to desired doneness. Serve with sautéed vegetables.",
+    "ingredients": ["Beef", "Vegetables", "Soy Sauce", "Garlic", "Ginger"],
+    "instructions": "Stir fry beef and vegetables in a hot pan with sauce. Serve with rice.",
     "image": "https://placehold.co/300x200"
   },
   {
-    "name": "Vegetable Stir Fry",
+    "name": "Vegetable Curry",
     "category": "Dinner",
-    "ingredients": ["Mixed Vegetables", "Soy Sauce", "Garlic", "Ginger", "Oil"],
-    "instructions": "Stir fry vegetables with garlic, ginger, and soy sauce until tender.",
+    "ingredients": ["Mixed Vegetables", "Coconut Milk", "Curry Paste", "Rice"],
+    "instructions": "Cook vegetables in curry paste and coconut milk. Serve with rice.",
     "image": "https://placehold.co/300x200"
   }
+
+  ,
+    {
+      "name": "Chicken Tacos",
+      "category": "Dinner",
+      "ingredients": ["Chicken", "Taco Shells", "Lettuce", "Tomato", "Cheese", "Salsa"],
+      "instructions": "Cook chicken with spices. Fill taco shells with chicken and toppings. Serve immediately.",
+      "image": "https://placehold.co/300x200"
+    },
+    {
+      "name": "Fruit Smoothie",
+      "category": "Breakfast",
+      "ingredients": ["Banana", "Berries", "Yogurt", "Honey", "Milk"],
+      "instructions": "Blend all ingredients until smooth. Serve chilled.",
+      "image": "https://placehold.co/300x200"
+    },
+    {
+      "name": "Tomato Soup",
+      "category": "Lunch",
+      "ingredients": ["Tomatoes", "Onion", "Garlic", "Vegetable Broth", "Cream"],
+      "instructions": "Cook tomatoes, onion, and garlic. Add broth, simmer, blend, and finish with cream.",
+      "image": "https://placehold.co/300x200"
+    }
 ]
